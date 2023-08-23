@@ -1,7 +1,7 @@
 '''
 # Git bash ma run garni
 1.$ cd c:
-2.$ cd /Users/Dell/Documents/python/
+2.$ cd Users/Dell/Documents/python
 3.$ cd test/
 ma test folder ma aayem python ko ani
 4.$ git init
