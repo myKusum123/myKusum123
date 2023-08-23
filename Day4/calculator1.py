@@ -15,3 +15,5 @@ elif input0 == 'D':
     print("Division of your number is = ", input1 / input2)
 else:
     print("Something is wrong on your operation")
+
+    # kusum magar
