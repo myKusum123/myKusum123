@@ -16,4 +16,4 @@ elif input0 == 'D':
 else:
     print("Something is wrong on your operation")
 
-    # kusum magar
+    # kusum magar enjoy your life
